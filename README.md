@@ -1,0 +1,1 @@
+This project plans to create a recipe website using basic html.
